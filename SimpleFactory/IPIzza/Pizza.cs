@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 
 namespace SimpleFactory.Pizza
 {
-     public interface  Pizza
+     public abstract class  Pizza
     {
-
-        public  void Preparar();
-        public void Assar(int Tempo);
-        public void Embalar ();
+        public  string Nome { get; set; }
+        public abstract void  Preparar();
+        public abstract void Assar(int Tempo);
+        public abstract void Embalar ();
     }
 }

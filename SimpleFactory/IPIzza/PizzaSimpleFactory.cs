@@ -3,7 +3,7 @@ namespace SimpleFactory.Pizza
 {
     public class PizzaSimpleFactory
     {
-        public static Object CiarPizza (string pizza)
+        public static Pizza CiarPizza (string pizza)
         {
              Pizza pizzaNome;
             switch (pizza) 
