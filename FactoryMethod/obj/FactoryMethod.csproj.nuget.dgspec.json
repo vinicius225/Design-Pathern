@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinicius.andrade\\OneDrive\\Área de Trabalho\\Design-Pathern\\FactoryMethod\\FactoryMethod.csproj": {}
+    "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Design Pathern\\FactoryMethod\\FactoryMethod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinicius.andrade\\OneDrive\\Área de Trabalho\\Design-Pathern\\FactoryMethod\\FactoryMethod.csproj": {
+    "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Design Pathern\\FactoryMethod\\FactoryMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinicius.andrade\\OneDrive\\Área de Trabalho\\Design-Pathern\\FactoryMethod\\FactoryMethod.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Design Pathern\\FactoryMethod\\FactoryMethod.csproj",
         "projectName": "FactoryMethod",
-        "projectPath": "C:\\Users\\vinicius.andrade\\OneDrive\\Área de Trabalho\\Design-Pathern\\FactoryMethod\\FactoryMethod.csproj",
-        "packagesPath": "C:\\Users\\vinicius.andrade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinicius.andrade\\OneDrive\\Área de Trabalho\\Design-Pathern\\FactoryMethod\\obj\\",
+        "projectPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Design Pathern\\FactoryMethod\\FactoryMethod.csproj",
+        "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Design Pathern\\FactoryMethod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vinicius.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

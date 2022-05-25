@@ -13,3 +13,18 @@ C:\Users\vinicius.andrade\OneDrive\Área de Trabalho\Design-Pathern\FactoryMetho
 C:\Users\vinicius.andrade\OneDrive\Área de Trabalho\Design-Pathern\FactoryMethod\obj\Debug\net6.0\FactoryMethod.pdb
 C:\Users\vinicius.andrade\OneDrive\Área de Trabalho\Design-Pathern\FactoryMethod\obj\Debug\net6.0\FactoryMethod.genruntimeconfig.cache
 C:\Users\vinicius.andrade\OneDrive\Área de Trabalho\Design-Pathern\FactoryMethod\obj\Debug\net6.0\ref\FactoryMethod.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Design Pathern\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Design Pathern\FactoryMethod\obj\Debug\net6.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Design Pathern\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Design Pathern\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Design Pathern\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Design Pathern\FactoryMethod\obj\Debug\net6.0\FactoryMethod.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Design Pathern\FactoryMethod\obj\Debug\net6.0\refint\FactoryMethod.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Design Pathern\FactoryMethod\obj\Debug\net6.0\FactoryMethod.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Design Pathern\FactoryMethod\bin\Debug\net6.0\FactoryMethod.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Design Pathern\FactoryMethod\bin\Debug\net6.0\FactoryMethod.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Design Pathern\FactoryMethod\bin\Debug\net6.0\FactoryMethod.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Design Pathern\FactoryMethod\bin\Debug\net6.0\FactoryMethod.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Design Pathern\FactoryMethod\bin\Debug\net6.0\FactoryMethod.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Design Pathern\FactoryMethod\obj\Debug\net6.0\FactoryMethod.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Design Pathern\FactoryMethod\obj\Debug\net6.0\ref\FactoryMethod.dll
